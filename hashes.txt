@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nikhoj Isshor Othoba Ak Bondhur Khoje
+
+This log tracks the cryptographic history and versioning for the song **Nikhoj Isshor Othoba Ak Bondhur Khoje** (nikhoj-isshor-othoba-ak-bondhur-khoje).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:10:16.438677 | `v1` | `f3f4a1e20d44598a8b603120ec80270c26cdebf6dafc551a821165698af39373` | `e595c030a5ff7d8cb95c0431c7c8476390dcec303dbc0946d1a53201816e7bd5` | `2026-05-28_nikhoj-isshor-othoba-ak-bondhur-khoje-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
