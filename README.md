@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/nikhoj-isshor-othoba-ak-bondhur-khoje/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Nikhoj Isshor Othoba Ak Bondhur Khoje](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nikhoj-isshor-othoba-ak-bondhur-khoje/) |
+| **Get License** | [Music Rights & Licensing for Nikhoj Isshor Othoba Ak Bondhur Khoje](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/nikhoj-isshor-othoba-ak-bondhur-khoje/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2266)
 
 ---
 
